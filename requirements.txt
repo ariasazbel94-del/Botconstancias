@@ -1,0 +1,2 @@
+resquest==2.31.0
+beautofulsoup4==4.12.2
