@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "bot-constancias"
+version = "1.0.0"
+description = "Bot de constancias fiscales"
+authors = ["Tu Nombre"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
